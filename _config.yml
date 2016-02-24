@@ -1,0 +1,28 @@
+name: The Grooming Table
+favicon: null
+layout_spectrum: 0.0262254539411515
+typography_spectrum: 0.17368055926635861
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5803998587653041
+  lightness: 0.6713085295632482
+  saturation: 0.7383919728454202
+  rhythmicContrast: 0.7522254399955273
+purpose: []
