@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: What we want to achieve as pet groomers
-datePublished: '2016-02-26T05:55:05.698Z'
-dateModified: '2016-02-26T05:54:57.213Z'
+description: ''
+datePublished: '2016-02-26T05:56:10.583Z'
+dateModified: '2016-02-26T05:55:48.218Z'
 title: Meet The Groomers
 author: []
+sourcePath: _posts/2016-02-26-meet-the-groomers.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-meet-the-groomers.md
-published: true
 url: meet-the-groomers/index.html
 _type: WebPage
 
@@ -28,8 +28,6 @@ _type: WebPage
 
 **Chua Pei Wen**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f4f4218-f130-442b-93be-b65b94f62491.jpg)
-
-I'm a pet groomer and founder of "The Grooming Table". 
 
 This company my little way of giving back what animals and nature
 
