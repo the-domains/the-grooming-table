@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T05:56:10.583Z'
-dateModified: '2016-02-26T05:55:48.218Z'
+datePublished: '2016-02-26T05:58:27.362Z'
+dateModified: '2016-02-26T05:57:38.327Z'
 title: Meet The Groomers
 author: []
 sourcePath: _posts/2016-02-26-meet-the-groomers.md
@@ -27,9 +27,8 @@ _type: WebPage
 # Meet The Groomers
 
 **Chua Pei Wen**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f4f4218-f130-442b-93be-b65b94f62491.jpg)
 
-This company my little way of giving back what animals and nature
+This company my little way of giving back what animals and naturehasgiven to you and us.
 
 Pet groomers tend to be stressed up by the sheer amount of work every day and animals will pick up on the negative vibes and get affected as well, creating a vicious cycle. That's why I prefer not to rush through during grooming, giving your pets' time to adapt to the process, which means less stress and longer lives for all of us.
 
@@ -66,5 +65,6 @@ Adopted a Yorkshire terrier from a kind friend and recently an old Maltese (RIP 
 2014 Nov - Attuned by Rosina Arquati for Reiki 1 in the Usui/Tibetian Ryoho System of Reiki.  
 2014 Nov - Completed theLow StressHandling Silver Certification Course for Cats and Dogs.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13739590-6371-48c8-a71e-4592df04ca0f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f4f4218-f130-442b-93be-b65b94f62491.jpg)
 
 [0]: http://rosina.wordpress.com/ "Animal Communication"
