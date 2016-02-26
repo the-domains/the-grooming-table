@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Pet Grooming For Dogs and Cats in Singapore]]></title>
         <description><![CDATA[Pet Grooming For Dogs and Cats in Singapore]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-grooming-table/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 06:16:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 06:16:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-grooming-table/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[1)Personal Excellence ]]></title>
-            <description><![CDATA[<article><h1>1)Personal Excellence </h1><p>We're very blessed to be able to do meaningful work everyday. These are guiding principles we remind ourselves daily to become the best we can be.</p></article>]]></description>
-            <link>undefined31ea8e9d-e638-41b8-9b20-ab1ac10c82d9/index.html</link>
+            <description><![CDATA[<article><h1>1)Personal Excellence </h1><p>Raise your standards and compete with what you're capable of in all areas of your life.</p></article>]]></description>
+            <link>https://thegrid.ai/the-grooming-table/31ea8e9d-e638-41b8-9b20-ab1ac10c82d9/index.html</link>
             <guid isPermaLink="false">31ea8e9d-e638-41b8-9b20-ab1ac10c82d9</guid>
-            <pubDate>Fri, 26 Feb 2016 06:13:13 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 06:14:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
